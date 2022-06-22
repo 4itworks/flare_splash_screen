@@ -60,16 +60,20 @@ packages:
   flare_flutter:
     dependency: transitive
     description:
-      name: flare_flutter
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "3.0.0"
+      path: flare_flutter
+      ref: HEAD
+      resolved-ref: "2ab67931326cb47d1ac5efbbc8807ad42a6a9b60"
+      url: "https://github.com/AmrNRD/Flare-Flutter"
+    source: git
+    version: "3.0.2"
   flare_loading:
     dependency: transitive
     description:
-      name: flare_loading
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "7479620c481c49079bc696b06c403afaaecb1cb2"
+      url: "https://github.com/4itworks/flare_loading"
+    source: git
     version: "3.0.0"
   flare_splash_screen:
     dependency: "direct main"
