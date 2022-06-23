@@ -68,7 +68,7 @@
         <entry key="flare_loading">
           <value>
             <list>
-              <option value="$USER_HOME$/Development/flutter/.pub-cache/git/flare_loading-7479620c481c49079bc696b06c403afaaecb1cb2//lib" />
+              <option value="$USER_HOME$/Development/flutter/.pub-cache/git/flare_loading-9e837203bace29f3a1dd7748c312060c2a141b50//lib" />
             </list>
           </value>
         </entry>
@@ -174,7 +174,7 @@
     </properties>
     <CLASSES>
       <root url="file://$USER_HOME$/Development/flutter/.pub-cache/git/Flare-Flutter-2ab67931326cb47d1ac5efbbc8807ad42a6a9b60/flare_flutter/lib" />
-      <root url="file://$USER_HOME$/Development/flutter/.pub-cache/git/flare_loading-7479620c481c49079bc696b06c403afaaecb1cb2//lib" />
+      <root url="file://$USER_HOME$/Development/flutter/.pub-cache/git/flare_loading-9e837203bace29f3a1dd7748c312060c2a141b50//lib" />
       <root url="file://$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/lib" />
       <root url="file://$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
       <root url="file://$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0/lib" />
