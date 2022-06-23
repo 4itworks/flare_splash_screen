@@ -54,7 +54,7 @@ packages:
     dependency: transitive
     description:
       path: flare_flutter
-      ref: HEAD
+      ref: stable
       resolved-ref: "2ab67931326cb47d1ac5efbbc8807ad42a6a9b60"
       url: "https://github.com/AmrNRD/Flare-Flutter"
     source: git
@@ -63,8 +63,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: "7479620c481c49079bc696b06c403afaaecb1cb2"
+      ref: master
+      resolved-ref: "9e837203bace29f3a1dd7748c312060c2a141b50"
       url: "https://github.com/4itworks/flare_loading"
     source: git
     version: "3.0.0"

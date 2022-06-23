@@ -12,6 +12,7 @@ dependencies:
   flare_loading:
     git:
       url: https://github.com/4itworks/flare_loading
+      ref: master
   #path: '../flare_loading'
   flutter:
     sdk: flutter
